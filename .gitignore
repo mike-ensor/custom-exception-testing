@@ -1,0 +1,10 @@
+
+# /
+/target
+/WEB-INF
+/*.iml
+/*.ipr
+/*.iws
+/.idea
+.gradle
+build
